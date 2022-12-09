@@ -1,2 +1,2 @@
 # JPEG-to-PNG-converter
-First run conv.py and slect which image you want to convert into png
+This project contains a simply python script to change file extension from .jpeg to .png
